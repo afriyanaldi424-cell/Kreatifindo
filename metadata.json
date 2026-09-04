@@ -1,0 +1,6 @@
+{
+  "name": "Kreatifindo",
+  "description": "Company profile dan katalog digital furniture & perabot premium dengan sistem penawaran dan dashboard admin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
